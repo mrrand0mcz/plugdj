@@ -1,0 +1,43 @@
+{
+  "room": "▼☼All in One Music☼▲",
+  "author": "-𝓡𝓐𝓝𝓓𝓞𝓜-",
+  "css": "https://rawgit.com/mrrand0mcz/plugdj/master/rand0m.css",
+  "rules": {
+    "allowAutorespond": true,
+    "allowAutowoot": true,
+    "allowAutojoin": true,
+    "allowAutograb": true,
+    "allowSmartVote": true,
+    "allowEmotes": true,
+    "allowShowingMehs": false,
+    "forceSmartVote": false
+},
+  "ccc": {
+      "admin":                "#null",
+      "ambassador":           "#null",
+      "host":                 "#F8F8FF",
+      "cohost":               "#F8F8FF",
+      "manager":              "#708090",
+      "bouncer":              "#708090",
+      "rdj":                  "#708090",
+      "subscriber":           "#708090",
+      "friend":               "#null",
+      "user":                 "#708090"
+  },
+  "images": {
+    "background": "https://i.imgur.com/cAL5YVe.jpg",
+    "playback": "",
+    "admin": null,
+    "ambassador": null,
+    "host": null,
+    "cohost": null,
+    "manager": null,
+    "bouncer": null,
+    "rdj": null,
+    "subscriber": null,
+    "silversubscriber": "https://vgy.me/sLYChC.png",
+    "other": null
+  },
+  "emotes": {
+  }
+}
