@@ -5,7 +5,7 @@
 	background:#808080;
 }
 #footer-user .info.showing .meta .level .label {
-	color:#808080;
+	color:#F8F8FF;
 }
 #footer-user .info.showing .meta .level .value {
 	color:#808080;
@@ -41,13 +41,13 @@ i.icon.icon-chat-host {
 	background : url(https://dl.dropboxusercontent.com/s/t70qvqutc7043rd/SM-Host.png?dl=0);
 }
 .group.manager {
-	color:#708090;
+	color:#F8F8FF;
 }
 i.icon.icon-chat-manager {
 	background : url(https://dl.dropboxusercontent.com/s/w0b2u64yi1sa6xq/SM-Manager.png?dl=0);
 }
 .group.bouncer {
-	color:#708090;
+	color:#F8F8FF;
 }
 i.icon.icon-chat-bouncer {
 	background : url(https://dl.dropboxusercontent.com/s/cr6oqo3gkzluej7/SM-Bouncer.png?dl=0);
@@ -59,10 +59,10 @@ i.icon.icon-chat-dj {
 	background : url(https://dl.dropboxusercontent.com/s/u6io4evqkij2gth/SM-Resdj.png?dl=0);
 }
 #user-rollover .info .level .label {
-	color:#808080;
+	color:#F8F8FF;
 }
 #user-rollover.is-staff .info .role span {
-	color: #808080;
+	color: #F8F8FF;
 }
 #vote {
 	opacity: 0.90;
