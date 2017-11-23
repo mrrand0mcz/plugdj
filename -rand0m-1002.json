@@ -1,1 +1,43 @@
-{"room":"▼☼All in One Music☼▲","author":"-𝓡𝓐𝓝𝓓𝓞𝓜-","icon":null,"css":"null","rules":{"allowAutorespond":true,"allowAutowoot":true,"allowAutojoin":true,"allowAutograb":true,"allowSmartVote":true,"allowEmotes":true,"allowShowingMehs":true,"forceSmartVote":false},"ccc":{"admin":"#42a5dc","ambassador":"#89be6c","host":"#228b22","cohost":"#228b22","manager":"#BE9113","bouncer":"#05abe4","rdj":"#ffd700","subscriber":"#c59840","silversubscriber":"#8694b2","friend":"#708090","user":"#708090"},"images":{"background":"https://i.imgur.com/u0Sgbfi.jpg","playback":null,"admin":null,"ambassador":null,"host":"https://dl.dropboxusercontent.com/s/t70qvqutc7043rd/SM-Host.png","cohost":"https://dl.dropboxusercontent.com/s/t70qvqutc7043rd/SM-Host.png","manager":"https://moveit-brasil.github.io/ccs/images/manager.png","bouncer":"https://moveit-brasil.github.io/ccs/images/bouncer.png","rdj":"https://i.imgur.com/sPFPkBG.png","subscriber":null,"silversubscriber":null},"emotes":{"emote_name":null}}
+{
+  "room": "▼☼All in One Music☼▲",
+  "author": "-𝓡𝓐𝓝𝓓𝓞𝓜-",
+  "css": "https://rawgit.com/mrrand0mcz/plugdj/master/rand0m1001.css",
+  "rules": {
+    "allowAutorespond": true,
+    "allowAutowoot": true,
+    "allowAutojoin": true,
+    "allowAutograb": true,
+    "allowSmartVote": true,
+    "allowEmotes": true,
+    "allowShowingMehs": false,
+    "forceSmartVote": false
+},
+  "ccc": {
+      "admin":                "#null",
+      "ambassador":           "#null",
+      "host":                 "#F8F8FF",
+      "cohost":               "#F8F8FF",
+      "manager":              "#F8F8FF",
+      "bouncer":              "#F8F8FF",
+      "rdj":                  "#708090",
+      "subscriber":           "#708090",
+      "friend":               "#null",
+      "user":                 "#708090"
+  },
+  "images": {
+    "background": "https://i.imgur.com/u0Sgbfi.jpg",
+    "playback": "",
+    "admin": null,
+    "ambassador": null,
+    "host": null,
+    "cohost": null,
+    "manager": null,
+    "bouncer": null,
+    "rdj": null,
+    "subscriber": null,
+    "silversubscriber": "https://vgy.me/sLYChC.png",
+    "other": null
+  },
+  "emotes": {
+  }
+}
