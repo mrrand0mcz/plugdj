@@ -38,25 +38,25 @@
 	color:#null;
 }
 i.icon.icon-chat-host {
-	background : url(https://i.imgur.com/dQVeNwQ.png?dl=0);
+	background : url(dl=0);
 }
 .group.manager {
-	color:#BE9113;
+	color:#null;
 }
 i.icon.icon-chat-manager {
-	background : url(https://moveit-brasil.github.io/ccs/images/manager.png?dl=0);
+	background : url(dl=0);
 }
 .group.bouncer {
-	color:#05abe4;
+	color:#null;
 }
 i.icon.icon-chat-bouncer {
-	background : url(https://moveit-brasil.github.io/ccs/images/bouncer.png?dl=0);
+	background : url(dl=0);
 }
 .group.dj {
-	color:#ffd700;
+	color:#null;
 }
 i.icon.icon-chat-dj {
-	background : url(https://i.imgur.com/sPFPkBG.png?dl=0);
+	background : url(dl=0);
 }
 #user-rollover .info .level .label {
 	color:#F8F8FF;
