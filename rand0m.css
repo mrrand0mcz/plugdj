@@ -34,30 +34,6 @@
 .welcome .text {
 	color:#F8F8FF;
 }
-.group.host {
-	color:#null;
-}
-i.icon.icon-chat-host {
-	background : url(dl=0);
-}
-.group.manager {
-	color:#null;
-}
-i.icon.icon-chat-manager {
-	background : url(dl=0);
-}
-.group.bouncer {
-	color:#null;
-}
-i.icon.icon-chat-bouncer {
-	background : url(dl=0);
-}
-.group.dj {
-	color:#null;
-}
-i.icon.icon-chat-dj {
-	background : url(dl=0);
-}
 #user-rollover .info .level .label {
 	color:#F8F8FF;
 }
